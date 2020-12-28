@@ -1,6 +1,6 @@
 # php-simple-exercise-1
 
-The purpose of this exercise is to develop a simple system applying some object orientation concepts and with some unit test cases.
+The purpose of this exercise is to develop a simple system applying some object orientation concepts with some unit test cases.
 
 ## What to do?
 
