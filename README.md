@@ -18,6 +18,7 @@ The purpose of this exercise is to develop a simple system applying some object 
 - Create at least three Unit Tests
 - Create at least one Enum
 - Documentate all the code in English
+- The user must type in console just the Commodity type to be manufactured and the quantity
 - Write instructions in README about how to use the software
 - Commit
 
@@ -37,5 +38,6 @@ The purpose of this exercise is to develop a simple system applying some object 
 - Criar pelo menos três Testes Unitários
 - Criar pelo menos um Enumerado
 - Documentar todo o código em inglês
+- O usuário deve digitar no console apenas o tipo da Commodity a ser fabricada e a quantidade
 - Colocar instruções no README de como utilizar o software
 - Realizar o commit
