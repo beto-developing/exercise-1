@@ -1,0 +1,15 @@
+{
+    "name": "roberto/exercise_1",
+    "authors": [
+        {
+            "name": "Andre",
+            "email": "andre@parteom.org"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "9.*"
+    },
+    "scripts": {
+        "test": "phpunit --testdox --colors=always"
+    }
+}
